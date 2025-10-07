@@ -1,22 +1,16 @@
-## Hi there 👋
-<table style="border-color:white; width:100%">
-<tr>
-<td style="border:0; vertical-align:top; width:70%;">
-🎓 Engineering student (IMAC) • 💻 Creative coder • 🎨 Digital designer  
+# Hello! 🐾🌺
+<img src="https://i.pinimg.com/736x/39/de/3a/39de3ac41775db390417cc5d8cc08380.jpg" align="right" width="200">
 
 Welcome to my GitHub profile!  
 Explore my projects built with a variety of technologies,  
 and feel free to visit my portfolio 👉 <a href="https://alinazhl.fr"><b>alinazhl.fr</b></a>  
 
 ✨ <i>“Turning ideas into code and design — one pixel at a time.”</i>
-</td>
-<td style="border:0; vertical-align:top; width:30%;">
-<img src="https://i.pinimg.com/736x/39/de/3a/39de3ac41775db390417cc5d8cc08380.jpg" width="100%"/>
-</td>
-</tr>
-</table>
 
-## 🛠️ Technologies & Tools
+🎓 Engineering student (IMAC) • 💻 Creative coder • 🎨 Digital designer  
+
+---
+## 🛠️ Technologies & Tools:
 
 ### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -72,5 +66,6 @@ and feel free to visit my portfolio 👉 <a href="https://alinazhl.fr"><b>alinaz
 - 🌍 [Portfolio](https://alinazhl.fr)
 
 - ---
-- ![Visitor Count](https://komarev.com/ghpvc/?username=Aliloa&color=brightgreen)
-© 2025 Alina — crafted with love
+© 2025 Alina — crafted with love ♦️
+
+ ![Visitor Count](https://komarev.com/ghpvc/?username=Aliloa&color=brightgreen)
