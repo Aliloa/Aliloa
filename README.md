@@ -15,7 +15,7 @@
     </td>
 
     <td>
-      <img src="https://example.com/your-image.png" alt="Profile Image" width="200"/>
+      <img src="https://i.pinimg.com/736x/39/de/3a/39de3ac41775db390417cc5d8cc08380.jpg" alt="Profile Image" width="200"/>
     </td>
   </tr>
 </table>
@@ -70,11 +70,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
-## 📊 Stats GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliloa&layout=compact&theme=tokyonight)
 
 ## 📫 Contact
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/alina-zhyla-894469269/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/alina-zhyla-894469269/)
 - 🌍 [Portfolio](https://alinazhl.fr)
 
 - ---
