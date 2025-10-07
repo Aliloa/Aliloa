@@ -1,13 +1,20 @@
 ## Hi there 👋
+<table>
+<tr>
+<td>
 🎓 Engineering student (IMAC) • 💻 Creative coder • 🎨 Digital designer  
 
 Welcome to my GitHub profile!  
 Explore my projects built with a variety of technologies,  
-and feel free to visit my portfolio 👉 [**alinazhl.fr**](https://alinazhl.fr)  
+and feel free to visit my portfolio 👉 <a href="https://alinazhl.fr"><b>alinazhl.fr</b></a>  
 
-✨ _“Turning ideas into code and design — one pixel at a time.”_
-
-![Chat mignon](https://i.pinimg.com/736x/39/de/3a/39de3ac41775db390417cc5d8cc08380.jpg)
+✨ <i>“Turning ideas into code and design — one pixel at a time.”</i>
+</td>
+<td>
+<img src="https://i.pinimg.com/736x/39/de/3a/39de3ac41775db390417cc5d8cc08380.jpg" width="150"/>
+</td>
+</tr>
+</table>
 
 ## 🛠️ Technologies & Tools
 
@@ -61,7 +68,7 @@ and feel free to visit my portfolio 👉 [**alinazhl.fr**](https://alinazhl.fr)
 
 
 ## 📫 Contact
-- 💼 [LinkedIn](https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/alina-zhyla-894469269/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alina-zhyla-894469269/)
 - 🌍 [Portfolio](https://alinazhl.fr)
 
 - ---
