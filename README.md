@@ -1,7 +1,7 @@
 ## Hi there 👋
-<table style="border:0">
+<table style="border-color:white; width:100%">
 <tr>
-<td style="border:0; vertical-align:top;">
+<td style="border:0; vertical-align:top; width:70%;">
 🎓 Engineering student (IMAC) • 💻 Creative coder • 🎨 Digital designer  
 
 Welcome to my GitHub profile!  
@@ -10,8 +10,8 @@ and feel free to visit my portfolio 👉 <a href="https://alinazhl.fr"><b>alinaz
 
 ✨ <i>“Turning ideas into code and design — one pixel at a time.”</i>
 </td>
-<td style="border:0; vertical-align:top;">
-<img src="https://i.pinimg.com/736x/39/de/3a/39de3ac41775db390417cc5d8cc08380.jpg" width="150"/>
+<td style="border:0; vertical-align:top; width:30%;">
+<img src="https://i.pinimg.com/736x/39/de/3a/39de3ac41775db390417cc5d8cc08380.jpg" width="100%"/>
 </td>
 </tr>
 </table>
