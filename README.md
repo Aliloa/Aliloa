@@ -1,24 +1,13 @@
 ## Hi there 👋
-<table>
-  <tr>
-    <td>
-      <h1>👋 Hi, I'm Lana!</h1>
-      <p>
-        🎓 Engineering student (IMAC) • 💻 Creative coder • 🎨 Digital designer<br>
-        <br>
-        Welcome to my GitHub profile!<br>
-        Explore my projects built with a variety of technologies,<br>
-        and feel free to visit my portfolio 👉 <a href="https://alinazhl.fr">alinazhl.fr</a><br>
-        <br>
-        ✨ <em>“Turning ideas into code and design — one pixel at a time.”</em>
-      </p>
-    </td>
+🎓 Engineering student (IMAC) • 💻 Creative coder • 🎨 Digital designer  
 
-    <td>
-      <img src="https://i.pinimg.com/736x/39/de/3a/39de3ac41775db390417cc5d8cc08380.jpg" alt="Profile Image" width="200"/>
-    </td>
-  </tr>
-</table>
+Welcome to my GitHub profile!  
+Explore my projects built with a variety of technologies,  
+and feel free to visit my portfolio 👉 [**alinazhl.fr**](https://alinazhl.fr)  
+
+✨ _“Turning ideas into code and design — one pixel at a time.”_
+
+![Chat mignon](https://i.pinimg.com/736x/39/de/3a/39de3ac41775db390417cc5d8cc08380.jpg)
 
 ## 🛠️ Technologies & Tools
 
