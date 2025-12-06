@@ -34,8 +34,13 @@ and feel free to visit my portfolio 👉 <a href="https://alinazhl.fr"><b>alinaz
 
 ---
 
-### ⚙️ Back-End & Frameworks
+### ⚙️ Back-End
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+---
+
+### 🧩 CMS
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 ---
