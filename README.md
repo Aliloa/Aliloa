@@ -71,6 +71,6 @@ and feel free to visit my portfolio 👉 <a href="https://alinazhl.fr"><b>alinaz
 - 🌍 [Portfolio](https://alinazhl.fr)
 
 - ---
-© 2025 Alina — crafted with love ♦️
+© 2025 Alina
 
  ![Visitor Count](https://komarev.com/ghpvc/?username=Aliloa&color=brightgreen)
