@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 Explore my projects built with a variety of technologies,  
 and feel free to visit my portfolio 👉 <a href="https://alinazhl.fr"><b>alinazhl.fr</b></a>  
 
-✨ <i>“Turning ideas into code and design — one pixel at a time.”</i>
+✨ <i>“Turning ideas into code and design - one pixel at a time.”</i>
 
 🎓 Engineering student (IMAC) • 💻 Creative coder • 🎨 Digital designer  
 
